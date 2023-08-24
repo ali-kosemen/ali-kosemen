@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikosemen&label=Profile%20views&color=0e75b6&style=flat" alt="alikosemen" /> </p>
 
-- 🌱 I’m currently learning **deep learning and machine learning**
-
 - 💬 Ask me about **artificial intelligence and programming languages**
 
 - 📫 How to reach me **alikosemen1@gmail.com**
