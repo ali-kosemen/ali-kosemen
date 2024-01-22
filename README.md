@@ -27,7 +27,7 @@ Kısa bir biyografi yazısı
       <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" />
     </td>
     <td>
-      <img src="/DALL·E 2024-01-22 15.35.38 - A young boy is coding on a computer in a cozy room, seated at a desk cluttered with books and notes. The computer screen is turned away from us, showi.png" alt="Açıklama" width="500" />
+      <img src="/DALL·E 2024-01-22 15.35.38 - A young boy is coding on a computer in a cozy room, seated at a desk cluttered with books and notes. The computer screen is turned away from us, showi.png" style="border-radius: 30px; width="500" />
     </td>
   </tr>
 </table>
