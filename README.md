@@ -5,7 +5,7 @@ A brief biography
     🔭 I'm currently working at AutoDidactic Technologies, focusing on Artificial Intelligence and Software Development
     🌱 I'm currently learning more about Artificial Intelligence and Software Development
 
-## 🛠️ Technologies I Use
+##  Technologies I Use
 
 <p align="left">
   <!-- Python -->
