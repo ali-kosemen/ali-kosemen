@@ -1,25 +1,4 @@
-<!-- Hareketli Yazı Efekti -->
-<details>
-  <summary>Welcome to page</summary>
-  <p>
-
-  ```plaintext
-  <!-- I'm Ali -->
-  <details>
-    <summary>I'm Ali</summary>
-    <p>
-
-    ```plaintext
-    <!-- AI and more -->
-    <details>
-      <summary>AI and more</summary>
-      <p>Here you can add more information about your AI and software development interests.</p>
-    </details>
-    ```
-    </p>
-  </details>
-
-
+## WELCOME 
 
 A brief biography
 
