@@ -27,7 +27,7 @@ A brief biography
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="500"/>
     </td>
     <td>
       <img src="/Circular_Image.png"  width="500" />
