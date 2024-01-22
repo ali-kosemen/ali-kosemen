@@ -25,7 +25,6 @@ Kısa bir biyografi yazısı
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=radical)
 
 
-<img src="https://media2.giphy.com/media/l1J9QoCFuSIphdMbe/giphy.gif" width="400">
-<img src="gif-linki2" width="400">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fsnow-cold-landscape-winter-2356%2F&psig=AOvVaw1_JYdW_YjbTKRcnyU5-WVH&ust=1706010987805000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKD346v48IMDFQAAAAAdAAAAABAE" width="400">
 
 
