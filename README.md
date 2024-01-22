@@ -6,18 +6,19 @@ Kısa bir biyografi yazısı
 
 ## 🛠️ Kullandığım Teknolojiler
 
-<p align="left">
+p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
   <!-- Jupyter -->
   <a href="https://jupyter.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
