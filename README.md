@@ -1,10 +1,11 @@
-# Merhaba, ben Ali! 👋
+Hello, I'm Ali! 👋
 
-Kısa bir biyografi yazısı
-- 🔭 Şu anda AutoDidactic Technologies'de çalışıyorum ve Yapay Zeka ve Yazılım Geliştirme üzerinde çalışıyorum
-- 🌱 Şu anda Yapay Zeka ve Yazılım Geliştirme hakkında daha fazla bilgi ediniyorum
+A brief biography
 
-## 🛠️ Kullandığım Teknolojiler
+    🔭 I'm currently working at AutoDidactic Technologies, focusing on Artificial Intelligence and Software Development
+    🌱 I'm currently learning more about Artificial Intelligence and Software Development
+
+🛠️ Technologies I Use
 
 <p align="left">
   <!-- Python -->
@@ -29,7 +30,7 @@ Kısa bir biyografi yazısı
       <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" />
     </td>
     <td>
-      <img src="/Circular_Image.png"  width="400" />
+      <img src="/Circular_Image.png"  width="500" />
     </td>
   </tr>
 </table>
