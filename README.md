@@ -19,11 +19,10 @@ Kısa bir biyografi yazısı
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=radical)
 
 
 <img src="(https://media2.giphy.com/media/l1J9QoCFuSIphdMbe/giphy.gif)https://media2.giphy.com/media/l1J9QoCFuSIphdMbe/giphy.gif" width="400">
