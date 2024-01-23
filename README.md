@@ -30,10 +30,11 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="600"/>
     </td>
     <td>
-      <img src="/Circular_Image.png"  width="500" />
+      <img src="/Circular_Image.png" width="500" />
     </td>
   </tr>
 </table>
+
