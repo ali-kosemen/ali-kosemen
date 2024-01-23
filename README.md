@@ -1,6 +1,6 @@
 ## Welcome to My Page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
 
-<img src="/new_Day.gif" width="100%" alt="About Me GIF"/>
+<img src="/new_Day.gif" width="50%" alt="About Me GIF"/>
 
 ### 🔭 About Me
 I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial Intelligence** and **Software Development**.
