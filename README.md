@@ -1,4 +1,4 @@
-## Welcome to My Page!
+## Welcome to My Page! ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ### 🔭 About Me
 I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial Intelligence** and **Software Development**.
@@ -18,6 +18,7 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
   <a href="https://jupyter.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   </a>
+  
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -34,4 +35,3 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
     </td>
   </tr>
 </table>
-
