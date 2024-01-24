@@ -41,7 +41,8 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="600"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikosemen&layout=compact&theme=light" width="400"/>
     </td>
     <td>
       <img src="/Circular_Image.png" width="500" />
