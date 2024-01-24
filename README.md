@@ -8,7 +8,7 @@ I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial
 ### 🌱 I'm Learning
 Continuously exploring more about **Artificial Intelligence** and **Software Development**.
 
-### 🛠 Technologies I Use
+### 🛠 Technologies & Prograamming Languages I Use
 
 <p align="left">
   <!-- Python -->
@@ -25,7 +25,18 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  
+  <!-- C++ -->
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
 </p>
+
 
 <table>
   <tr>
