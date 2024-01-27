@@ -8,7 +8,7 @@ I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial
 ### 🌱 I'm Learning
 Continuously exploring more about **Artificial Intelligence** and **Software Development**.
 
-### 🛠 Technologies & Prograamming Languages I Use
+### 🛠 Technologies & Programming Languages I Use
 
 <p align="left">
   <!-- Python -->
