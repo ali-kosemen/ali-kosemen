@@ -62,7 +62,7 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
     <td>
      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikosemen&layout=compact&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikosemen&background=1abc9c&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12" width="540"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikosemen&background=1abc9c&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="540"/>
     </td>
     <td>
       <img src="/Circular_Image.png" width="1280" />
