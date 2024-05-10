@@ -51,21 +51,21 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-<!-- MSSQL -->
+  <!-- MSSQL -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
 
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=light" width="540"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikosemen&layout=compact&theme=light" width="510"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikosemen&layout=compact&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikosemen&background=1abc9c&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12" width="540"/>
     </td>
     <td>
-      <img src="/Circular_Image.png" width="1000" />
+      <img src="/Circular_Image.png" width="1280" />
     </td>
   </tr>
 </table>
