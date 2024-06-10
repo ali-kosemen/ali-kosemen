@@ -1,18 +1,36 @@
+<div align="center">
+  
 ## Welcome to My Page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+
+</div>
 
 <div align="center">
 <img src="/new_Day.gif" width="80%" alt="About Me GIF"/>
 </div>
 
+
+<div align="center">
+  
 ### 🔭 About Me
 I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial Intelligence** and **Software Development**.
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🌱 I'm Learning
 Continuously exploring more about **Artificial Intelligence** and **Software Development**.
+</div>
 
-### 🛠 Technologies & Programming Languages I Use
+<br>
 
-<p align="left">
+
+<div align="center">
+
+### 🛠 Technologies & Programming Languages I Use 🛠 
+
+<p align="center">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -58,6 +76,10 @@ Continuously exploring more about **Artificial Intelligence** and **Software Dev
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
+
+</div>
+
+
 
 <table>
   <tr>
