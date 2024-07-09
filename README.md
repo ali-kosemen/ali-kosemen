@@ -8,13 +8,6 @@
 <img src="/new_Day.gif" width="80%" alt="About Me GIF"/>
 </div>
 
-
-<div align="center">
-  
-### 🔭 About Me
-I'm currently working at **AutoDidactic Technologies**, focusing on **Artificial Intelligence** and **Software Development**.
-</div>
-
 <br>
 
 <div align="center">
