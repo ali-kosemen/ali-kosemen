@@ -12,8 +12,6 @@
 
 <div align="center">
 
-### 🌱 I'm Learning
-Continuously exploring more about **Artificial Intelligence** and **Software Development**.
 </div>
 
 <br>
