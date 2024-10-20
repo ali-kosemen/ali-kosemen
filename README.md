@@ -4,9 +4,6 @@
 
 </div>
 
-<div align="center">
-<img src="/new_Day.gif" width="80%" alt="About Me GIF"/>
-</div>
 
 <br>
 
