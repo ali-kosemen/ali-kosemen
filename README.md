@@ -43,7 +43,7 @@
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikosemen&background=1abc9c&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="540"/>
     </td>
     <td>
-      <img src="/Circular_Image.png" width="1280" />
+      <img src="/circular_image.png" width="1280" />
     </td>
   </tr>
 </table>
