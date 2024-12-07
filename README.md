@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 🛠 Programming Languages I Use 🛠 
+### Programming Languages I Use
 
 <p align="center">
   <!-- Python -->
