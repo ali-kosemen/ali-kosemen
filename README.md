@@ -1,6 +1,6 @@
 <div align="center">
   
-## Welcome to My Page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
+## Welcome to My Page! 
 
 </div>
 
@@ -27,18 +27,10 @@
 
 </div>
 
+<p align="center">
+  <img src="cloudy-sky_3840x2160_xtrafondos.com.jpg" alt="My Repo Photo" width="800"/>
+</p>
 
 
-<table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=Alikosemen&show_icons=true&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alikosemen&layout=compact&theme=default&bg_color=30,1abc9c,f39c12&title_color=fff&text_color=fff" width="540"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alikosemen&background=1abc9c&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="540"/>
-    </td>
-    <td>
-      <img src="/circular_image.png" width="1280" />
-    </td>
-  </tr>
-</table>
+
 
