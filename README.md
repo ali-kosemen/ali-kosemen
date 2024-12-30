@@ -26,10 +26,6 @@
 
 </div>
 
-<p align="center">
-  <img src="cloudy-sky_3840x2160_xtrafondos.com_modified.png" alt="My Repo Photo" width="500"/>
-</p>
-
 
 
 
