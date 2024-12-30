@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome to My Page! 
+# Welcome! 
 
 </div>
 
