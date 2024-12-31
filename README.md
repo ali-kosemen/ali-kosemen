@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### Languages I Work With
+### The tools, technologies, and frameworks I utilize
 
 <p align="center">
   <!-- Python -->
